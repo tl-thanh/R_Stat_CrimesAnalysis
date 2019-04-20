@@ -1,0 +1,26 @@
+﻿var,labl, titl
+county,county identifier, County Identifier
+year,1987, Year - 1987
+crmrte,crimes committed per person, Crimes Committed per Person
+prbarr,probability' of arrest, Probability of Arrest
+prbconv,probability' of conviction, Probability of Conviction
+prbpris,probability' of prison sentence, Probability of Prison Sentence
+avgsen,"avg. sentence, days", Average Sentence (Days)
+polpc,police per capita, Police per Capita
+density,people per sq. mile, People per Square Mile
+taxpc,tax revenue per capita, Tax Revenue per Capita
+west,`=1 if in western N.C., County in western N.C. if =1
+central,`=1 if in central N.C., County in central N.C. if =1
+urban,`=1 if in SMSA, County in Standard Metro Statistical Area N.C. if =1
+pctmin80,"perc. Minority ,1980", Percent Minority in 1980
+wcon,"weekly wage, construction", Construction Weekly Wage
+wtuc,"wkly wge, trns, util, commun", Utilities Weekly Wage 
+wtrd,"wkly wge, whle sle, retail trade", Retail Weekly Wage
+wfir,"wkly wge, fin, ins, realest", Finance Weekly Wage
+wser,"wkly wge, service industry", Services Weekly Wage
+wmfg,"wkly wge, manufacturing", Manufacturing Weekly Wage
+wfed,"wkly wge, fed employees", Federal Employees Weekly Wage
+wsta,"wkly wge, state employees", State Employees  Weekly Wage
+wloc,"wkly wge, local gov emps", Local Government Weekly Wage
+mix,offense mix: face-to-face/other, Offense Mix: Face-to-Face/Other
+pctymle,percent young male, Young Male - Percent of Population 
